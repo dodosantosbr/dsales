@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/douglas-sales-3308b2298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
   <img alt="Linkdein" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
-  <a href="dodopt99@gmail.com">
-  <img alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
-</a>
 <a href="https://github.com/dodosantosbr/">
   <img alt="Github" width="22px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
 </a>
@@ -62,10 +59,6 @@ In mid-2021 I started programming, took several web development courses (I still
 
 <br>
 <br>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattchagaz&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
-</div>
 
 <div>
   <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/gradients.png" alt="Gradients" width="100%">
