@@ -20,11 +20,3 @@
 <div>  
   <a href="https://www.linkedin.com/in/dodosantosbr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-# Visitors
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdodosantosbr%2Fdodosantosbr&countColor=%23263759&style=flat)
-
-## Contribution graph
-  
-![snake gif](https://github.com/dodosantosbr/blob/output/github-contribution-grid-snake.svg)  
