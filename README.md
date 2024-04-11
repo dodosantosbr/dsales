@@ -23,8 +23,8 @@
 
 # Visitors
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpablovianas%2Fpablovianas&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdodosantosbr%2Fdsales&countColor=%23263759&style=flat)
 
 ## Contribution graph
   
-![snake gif](https://github.com/pablovianas/pablovianas/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/dodosantosbr/dsales/blob/output/github-contribution-grid-snake.svg)  
