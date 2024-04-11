@@ -23,8 +23,8 @@
 
 # Visitors
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdodosantosbr%2Fdsales&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdodosantosbr%2Fdodosantosbr&countColor=%23263759&style=flat)
 
 ## Contribution graph
   
-![snake gif](https://github.com/dodosantosbr/dsales/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/dodosantosbr/blob/output/github-contribution-grid-snake.svg)  
