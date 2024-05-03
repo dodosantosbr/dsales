@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-  <Meu nome é Douglas Sales>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+Me+chamo+Douglas!+%E2%9C%A7)](https://git.io/typing-svg)
 
  <div>
    <a href="https://github.com/dodosantosbr">
