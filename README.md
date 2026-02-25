@@ -1,27 +1,34 @@
-## Bem-vindo(a) ao meu perfil 😁
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+Me+chamo+Douglas!+%E2%9C%A7)](https://git.io/typing-svg)
+## Bem-vindo(a) ao perfil de Douglas Sales 😁
 
  <div>
    <a href="https://github.com/dodosantosbr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dodosantosbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodosantosbr&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cledeocirmarafao&layout=compact&langs_count=7&theme=blue-green" alt="Top Linguagens" title="As linguagens mais usadas nos meus projetos" />
+
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cledeocirmarafao&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" title="Minhas estatísticas e contribuições no GitHub" />
 </div>
+</div>
+
+<h2>Tecnologias Utilizadas</h2>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-</div>
- 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6C37?logo=fastapi&logoColor=white&labelColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white&style=for-the-badge)
+
 <br>
- 
-### Para qualquer dúvida ou programação contactar diretamente no meu LinkedIn!
- 
-<div>  
-  <a href="https://www.linkedin.com/in/dodosantosbr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cledeocirmarafao&color=ff6ac1&style=for-the-badge&label=VISITANTES" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ipierette?style=for-the-badge&color=58a6ff&labelColor=21262d&logo=github&label=SEGUIDORES" alt="GitHub followers" />
+</p>
