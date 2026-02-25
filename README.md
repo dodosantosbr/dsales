@@ -2,9 +2,9 @@
 
  <div>
    <a href="https://github.com/dodosantosbr">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cledeocirmarafao&layout=compact&langs_count=7&theme=blue-green" alt="Top Linguagens" title="As linguagens mais usadas nos meus projetos" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dodosantosbr&layout=compact&langs_count=7&theme=blue-green" alt="Top Linguagens" title="As linguagens mais usadas nos meus projetos" />
 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cledeocirmarafao&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" title="Minhas estatísticas e contribuições no GitHub" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dodosantosbr&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" title="Minhas estatísticas e contribuições no GitHub" />
 </div>
 </div>
 
