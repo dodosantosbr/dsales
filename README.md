@@ -30,5 +30,5 @@
 
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dodosantosbr&color=ff6ac1&style=for-the-badge&label=VISITANTES" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ipierette?style=for-the-badge&color=58a6ff&labelColor=21262d&logo=github&label=SEGUIDORES" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/dodosantosbr?style=for-the-badge&color=58a6ff&labelColor=21262d&logo=github&label=SEGUIDORES" alt="GitHub followers" />
 </p>
